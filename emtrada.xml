@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+
+
+<channel>
+<name>[B][COLOR red]:::[/COLOR][COLOR orange]ADDON[/COLOR][COLOR pink]AQUILES[/COLOR][COLOR red]:::[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2020%20de%20jul.%20de%202025%2C%2000_01_19.png</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-23-04-11/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2023_04_11.png</fanart>
+<info>Bem-vindo ao CAVALEIROVIP! Desfrute de uma experiência incrível com uma vasta seleção de filmes, séries, animes, desenhos e muito mais. Navegue e encontre tudo o que você adora, em um único lugar como:
+</channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR orange]FILMES[/COLOR][/B]</name>
+        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</thumbnail>
+        <fanart>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</fanart>
+        <info>Assista a uma seleção de canais ao vivo organizados por categorias, como Abertos, Esportes, Filmes & Séries, Notícias, Infantil e Música. Navegue facilmente por uma interface intuitiva e acesse transmissões de alta qualidade com apenas um clique entretenimento ao vivo direto no seu Kodi!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR pink]TeamTeamCavaleiroVipy@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/cavaleirotv1.xml</externallink>
+    </channel>
+
+  
+</channels>
