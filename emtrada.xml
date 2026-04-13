@@ -11,12 +11,20 @@
 </channel>
 
 <channel> 
-<name>[COLOR green] TV [/COLOR] GENEROS </name>
+<name>[COLOR yellow] TVS [/COLOR] GENEROS </name>
 <thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
 <fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/aquiles13/refs/heads/main/tv.xml</externallink>
 </channel>
 
+<channel> 
+<name>[COLOR blue] FILMES [/COLOR] GENEROS </name>
+<thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
+<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
+<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/aquiles13/refs/heads/main/filmes.xml</externallink>
+</channel>
+  
   
 </channels>
