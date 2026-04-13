@@ -1,8 +1,4 @@
 #EXTM3U
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://img.onetv.plus/icones_channels/CN_CARTOON_HD.png" group-title="⭐ 4K", CARTOON NETWORK 4K
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ ADDON AQUILES[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://newoneblack.site/live/77184866/79738215/231451.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png" group-title="⭐ 4K", ANIMAL PLANET 4K
