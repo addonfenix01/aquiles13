@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[COLOR red] ===[/COLOR] [COLOR orange] SEJAM BEM-VINDOS AO THE ADDON AQUILES BR/RS/R.O ENTRETENIMENTO AOS USUSÁRIO DO MUNDO KODI, LEMBRANDO QUE O CONTEÚDO É PEGO NA INTERNET ENTÃO PODE SER QUE ALGUMAS OPÇÕES, PODEM NÃO FUNCIONAR, OBRIGADO Á TODOS E BOM DIVERTIMENTO.[COLOR red] === [/COLOR]</name>
+<name>[COLOR red] ===[/COLOR] [COLOR blue] SEJAM BEM-VINDOS AO THE ADDON AQUILES BR/RS/R.O ENTRETENIMENTO AOS USUSÁRIO DO MUNDO KODI, LEMBRANDO QUE O CONTEÚDO É PEGO NA INTERNET ENTÃO PODE SER QUE ALGUMAS OPÇÕES, PODEM NÃO FUNCIONAR, OBRIGADO Á TODOS E BOM DIVERTIMENTO.[COLOR red] === [/COLOR]</name>
 <thumbnail></thumbnail>
 <fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] Sejam Bem vindos ao ADDON THE CROWN/BR/RS/R.O [/COLOR]</info>
@@ -19,24 +19,7 @@
 </channel>
   
 <channel> 
-<name>[COLOR yellow] TVS [/COLOR] GENEROS </name>
-<thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
-<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/aquiles13/refs/heads/main/tv.xml</externallink>
-</channel>
-
-<channel> 
-<name>[COLOR burble] TVS2 [/COLOR] GENEROS </name>
-<thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
-<fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
-<info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/aquiles13/refs/heads/main/tv2.xml</externallink>
-</channel>
-
-  
-<channel> 
-<name>[COLOR blue] FILMES [/COLOR] GENEROS </name>
+<name>[COLOR yellow] FILMES [/COLOR] GENEROS </name>
 <thumbnail>https://archive.org/download/thecrownfilmesrecemlacados/thecrownsseriesrecemla%C3%A7adas.png</thumbnail>
 <fanart>https://archive.org/download/icon_20250522/Fanart.jpg.jpeg</fanart>
 <info>[COLOR red] [COLOR blue] Bem vindo ao addon Ares [/COLOR]</info>
